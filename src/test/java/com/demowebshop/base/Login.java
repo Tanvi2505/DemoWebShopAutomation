@@ -42,9 +42,9 @@ public class Login {
 
 		driver.findElement(By.linkText("Log in")).click();
 
-		driver.findElement(By.id("Email")).sendKeys("ladakshata2004@gmail.com");
+		driver.findElement(By.id("Email")).sendKeys("suryawanshitanvi468@gmail.com");
 
-		driver.findElement(By.id("Password")).sendKeys("Akshata@99999");
+		driver.findElement(By.id("Password")).sendKeys("Tanvi-123");
 
 		driver.findElement(By.xpath("//input[@value='Log in']")).click();
 
